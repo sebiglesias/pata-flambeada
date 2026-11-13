@@ -1,0 +1,16 @@
+{
+  "name": "Calculadora de Pata Flambeada 2026 | Pernil de Cerdo para Fiestas",
+  "short_name": "Pata Flambeada",
+  "start_url": "https://sebiglesias.com.ar/pata-flambeada/",
+  "display": "standalone",
+  "background_color": "#090a10",
+  "theme_color": "#e11d48",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
